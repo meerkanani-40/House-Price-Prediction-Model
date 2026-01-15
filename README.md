@@ -3,8 +3,6 @@
 ## Project Overview
 This project implements a machine learning pipeline to predict house prices based on selected numerical features such as area, quality, and number of rooms. The goal of this project is to demonstrate a clear understanding of the end-to-end machine learning workflow, including data analysis, model training, evaluation, and reuse of the trained model for future predictions.
 
-The project is designed to be **simple, interpretable, and explainable**, making it suitable for learning and interview discussions.
-
 ## Project Structure
 house-price-prediction/<br>
 │<br>
